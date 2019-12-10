@@ -45,5 +45,12 @@
       "product-images",
       "product-brand"
     ]
+  },
+  "sku-selector" : {
+    "props" : {
+      "showVariationsErrorMessage": true,
+      "initialSelection" : [],
+      "showValueNameForImageVariation" : true
+    }
   }
 }
